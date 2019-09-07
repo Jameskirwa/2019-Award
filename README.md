@@ -1,6 +1,6 @@
 ## 2019 AWARD :+1: :+1:
 
-A web application that will allow users to showcase their projects and get them votes by their peers.
+A web application that will allow users to showcase their projects and get them voted for by their peers.
 
 ---------------------------
 
