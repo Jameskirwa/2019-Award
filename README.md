@@ -4,7 +4,7 @@ A web application that will allow users to showcase their projects and get them 
 
 ---------------------------
 
-### Authors :feelsgood:
+### Authors :feelsgood: 
 
 James Kirwa
 
