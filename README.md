@@ -1,18 +1,17 @@
-# 2019 AWARD :+1: :+1:
+## 2019 AWARD :+1: :+1:
 
 A web application that will allow users to showcase their projects and get them votes by their peers.
 
 ---------------------------
-## Authors :feelsgood:
+### Authors :feelsgood:
 
 James Kirwa
-
 
 ----------------------------------------
 ## Setup/Installation Requirements
 
-*Github link 
-*live link 
+*Github link
+*live link
 
 ---------------------------------------
 ### Installing Dependencies
