@@ -3,37 +3,39 @@
 A web application that will allow users to showcase their projects and get them votes by their peers.
 
 ---------------------------
+
 ### Authors :feelsgood:
 
 James Kirwa
 
 ----------------------------------------
+
 ## Setup/Installation Requirements
 
 *Github link
 *live link
 
 ---------------------------------------
+
 ### Installing Dependencies
 
-~~~
 pip3 install -r requirements.txt
-~~~
 
 --------------------------------------
+
 ### Creating virtual environment
-~~~
+
 python3.6 -m venv virtual
-~~~
 
 -------------------------------------
+
 ### Running the server
-~~~
+
 python3.6 manage.py runserver
-~~~
 
 ----------------------------------
-## User Stories
+
+### User Stories
 
 * View posted projects and their details
 * Post a project to be rated/reviewed
@@ -43,7 +45,8 @@ python3.6 manage.py runserver
 * View my profile page
 
 -------------------------
-## BDD
+
+### BDD
 
 |Behaviour|Input|Output|
 |:--------|:-----|:----|
@@ -51,22 +54,23 @@ python3.6 manage.py runserver
 |Post project|The user when he clicks the post project button|He is able to see his project beneth his profile|
 
 ------------------------------------
-## Technologies Used
-~~~
+
+### Technologies Used
+
 *Python3.6
 *Django
 *HTML
 *CSS
 *Bootstrap
-~~~
 ----------------------------------------------------------------------
-## Support and contact details
-~~~
- Run the web page once again incase of any errors, suggestions send an email: jameskirwa34@gmail.com 
-~~~
+
+### Support and contact details
+
+ Run the web page once again incase of any errors, suggestions send an email: jameskirwa34@gmail.com
 
 -------------------------------------------------------
-## License
+
+### License
 
  Copyright 2019 James Kirwa
 
