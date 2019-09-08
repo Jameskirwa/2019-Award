@@ -13,6 +13,7 @@ class ProfileForm(forms.ModelForm):
     class Meta:
         model = Profile
         fields = ('profilepic','bio', 'prefname', 'contact')
+        # user credentials
 
 class RatingForm(forms.ModelForm):
     class Meta:
