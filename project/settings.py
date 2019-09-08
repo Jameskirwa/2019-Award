@@ -22,11 +22,14 @@ from decouple import config,Csv
 MODE = config('MODE', default = 'dev')
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = config('SECRET_KEY')
+heroku config:set SECRET_KEY='Your secret key'
+
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = config('DEBUG',default = False,cast = bool)
 
 ALLOWED_HOSTS = []
+SECRET_KEY = 'james'
 
 
 # Application definition
